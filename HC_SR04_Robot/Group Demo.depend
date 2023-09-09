@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1647755556 source:/home/pi/Desktop/Group Demo/main.c
+	<wiringPi.h>
+	<stdio.h>
+	<sys/time.h>
+	<wiringSerial.h>
+	<lcd.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+
+1551518925 /usr/local/include/wiringPi.h
+
+1551518925 /usr/local/include/wiringSerial.h
+
+1551518927 /usr/local/include/lcd.h
+
+1649168317 source:d:\×ÀÃæ\raspberry pi codes\desktop\group demo\main.c
+	<wiringPi.h>
+	<stdio.h>
+	<sys/time.h>
+	<wiringSerial.h>
+	<lcd.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+
