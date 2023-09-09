@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1646190842 source:/home/pi/Desktop/task5/main.c
+	<wiringPi.h>
+	<stdio.h>
+	<sys/time.h>
+	<lcd.h>
+
+1551518925 /usr/local/include/wiringPi.h
+
+1551518927 /usr/local/include/lcd.h
+
