@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1648782166 source:/home/pi/Desktop/Sg90/main.cpp
+	<stdio.h>
+	<wiringPi.h>
+
+1551518925 /usr/local/include/wiringPi.h
+
+1551518925 /usr/local/include/softPwm.h
+
+1551518925 /usr/local/include/wiringSerial.h
+
